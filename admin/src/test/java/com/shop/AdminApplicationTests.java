@@ -9,7 +9,7 @@ class AdminApplicationTests {
 	@Test
 	void contextLoads() {
 		int b = 0;
-
+		int i = 10;
 	}
 
 }

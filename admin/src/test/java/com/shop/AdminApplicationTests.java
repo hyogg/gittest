@@ -8,6 +8,8 @@ class AdminApplicationTests {
 
 	@Test
 	void contextLoads() {
+		int b = 0;
+
 	}
 
 }
